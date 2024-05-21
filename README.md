@@ -30,7 +30,7 @@ The project visualizes the distribution of climbing centers in Spain and evaluat
 ## How to Use
 
 1. Clone the repository.
-2. Install the required Python packages using `pip install -r requirements.txt`.
+2. Install the required Python packages in the *Technologies Used* section
 3. Run the Jupyter notebook to reproduce the analysis.
 
 ## Code
